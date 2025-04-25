@@ -1,0 +1,129 @@
+import os
+import sys
+import numpy as np
+import pandas as pd
+import xarray as xr
+import warnings
+
+# Add the parent folder to path 
+sys.path.append(os.path.join(os.path.dirname(__file__), '..', 'data'))
+
+
+class GeslaDataset:
+    def __init__(self, meta_file, data_path):
+        self.meta = pd.read_csv(meta_file)
+        self.meta.columns = [
+            c.replace(" ", "_").replace("(", "").replace(")", "").replace("/", "_").lower()
+            for c in self.meta.columns
+        ]
+        self.meta["start_date_time"] = pd.to_datetime(self.meta["start_date_time"])
+        self.meta["end_date_time"] = pd.to_datetime(self.meta["end_date_time"])
+        self.meta.rename(columns={"file_name": "filename"}, inplace=True)
+        self.data_path = data_path
+
+    def file_to_pandas(self, filename, return_meta=True):
+        filepath = os.path.join(self.data_path, filename)
+        data = pd.read_csv(
+            filepath,
+            skiprows=41,
+            names=["date", "time", "sea_level", "qc_flag", "use_flag"],
+            sep="\s+",
+            parse_dates=[[0, 1]],
+            index_col=0,
+        )
+        duplicates = data.index.duplicated()
+        if duplicates.sum() > 0:
+            data = data.loc[~duplicates]
+            warnings.warn(f"Duplicate timestamps in file {filename} were removed.")
+
+        if return_meta:
+            meta = self.meta.loc[self.meta.filename == filename].iloc[0]
+            return data, meta
+        return data
+
+    def files_to_xarray(self, filenames):
+        data = xr.concat(
+            [self.file_to_pandas(f, return_meta=False).to_xarray() for f in filenames],
+            dim="station"
+        )
+
+        idx = [s.Index for s in self.meta.itertuples() if s.filename in filenames]
+        meta = self.meta.loc[idx]
+        meta.index = range(meta.index.size)
+        meta.index.name = "station"
+        data = data.assign({c: meta[c] for c in meta.columns})
+
+        return data
+
+    def load_lat_lon_range(
+            self, south_lat=-90, north_lat=90, west_lon=-180, east_lon=180, force_xarray=False):
+        if west_lon > 0 and east_lon < 0:
+            lon_bool = (self.meta.longitude >= west_lon) | (self.meta.longitude <= east_lon)
+        else:
+            lon_bool = (self.meta.longitude >= west_lon) & (self.meta.longitude <= east_lon)
+
+        lat_bool = (self.meta.latitude >= south_lat) & (self.meta.latitude <= north_lat)
+        meta = self.meta.loc[lon_bool & lat_bool]
+
+        if meta.index.size > 1 or force_xarray:
+            return self.files_to_xarray(meta.filename.tolist())
+        else:
+            return self.file_to_pandas(meta.filename.values[0])
+
+
+def main():
+    # Define the base directory
+    base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+
+    # Paths to metadata file, raw data, and output directory (all relative to repo root)
+    meta_file = os.path.join(base_dir, 'data', 'GESLA3_ALL.csv')
+    data_path = os.path.join(base_dir, 'data', 'GESLA3.0_ALL')
+    output_directory = os.path.join(base_dir, 'data', 'processed_GESLA')
+
+    # Latitude and longitude tiles covering North Western Europe
+    latitudes = [(48, 55), (55, 60), (60, 65)]
+    longitudes = [(-11.5, -5), (-5, 3), (3, 9), (9, 15)]
+
+    # Define a regular time axis
+    common_time = pd.date_range(start="1979-01-01", end="2018-12-31 23:00", freq="1H")
+
+    # Initialize the GESLA dataset
+    g3 = GeslaDataset(meta_file=meta_file, data_path=data_path)
+
+    # Loop over each lat/lon tile
+    for lat_range in latitudes:
+        for lon_range in longitudes:
+            # Construct output file name for current tile
+            output_file = os.path.join(
+                output_directory,
+                f"GESLA3_NorthSea_{lat_range[0]}_{lat_range[1]}_{lon_range[0]}_{lon_range[1]}.nc"
+            )
+
+            try:
+                # Load GESLA data for this lat/lon range
+                gesla_data_chunk = g3.load_lat_lon_range(
+                    south_lat=lat_range[0],
+                    north_lat=lat_range[1],
+                    west_lon=lon_range[0],
+                    east_lon=lon_range[1],
+                )
+
+                # Mask out invalid values where use_flag is NaN
+                mask = np.isnan(gesla_data_chunk["use_flag"])
+                sea_level_cleaned = gesla_data_chunk["sea_level"].where(~mask).astype("float32")
+
+                # Convert to single-variable xarray dataset
+                sea_level_ds = sea_level_cleaned.to_dataset(name="sea_level")
+
+                # Save the cleaned dataset to NetCDF file
+                sea_level_ds.to_netcdf(output_file)
+
+                print(f"✅ Saved: {output_file}")
+            except Exception as e:
+                # Print error if saving fails
+                print(f"❌ Failed to save: {output_file}")
+                print(f"   Reason: {e}")
+
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,9 @@
+{
+  "H": 32,
+  "W": 32,
+  "mask_ratio": 0.75,
+  "hidden": 128,
+  "arch_note": "MAE for 2D tiles; expects single-channel float32 with NaNs.",
+  "created_utc": 1757512837,
+  "code_version": "v1"
+}

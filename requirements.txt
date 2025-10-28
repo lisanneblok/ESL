@@ -1,0 +1,268 @@
+absl-py==2.1.0
+affine==2.4.0
+aiohttp==3.9.3
+aiosignal==1.3.1
+anyio==4.3.0
+appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1649077682618/work
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1698341106958/work
+astunparse==1.6.3
+async-lru==2.0.4
+attrs==23.1.0
+Babel==2.14.0
+backcall==0.2.0
+beautifulsoup4==4.12.3
+bleach==6.1.0
+Bottleneck @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/bottleneck_1699237772214/work
+Brotli @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/brotli-split_1699237319520/work
+caerus==0.1.10
+Cartopy @ file:///Users/runner/miniforge3/conda-bld/cartopy_1698172777116/work
+cattrs==23.2.3
+cdsapi==0.7.5
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1707022139797/work/certifi
+cffi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b4nang6w_y/croot/cffi_1700254307954/work
+cftime==1.6.3
+chardet==5.2.0
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+click-plugins==1.1.1
+cligj==0.7.2
+cloudpickle==3.0.0
+comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1691044910542/work
+contourpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/contourpy_1701814001737/work
+cryptography @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_b1p0q5vizk/croot/cryptography_1702070293829/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+dask==2024.3.0
+datapi==0.4.0
+debugpy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/debugpy_1699253073094/work
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
+deep-translator==1.11.4
+deepdespeckling==0.8
+defusedxml==0.7.1
+dm-tree==0.1.8
+docopt==0.6.2
+docstring_parser==0.16
+emcee @ file:///home/conda/feedstock_root/build_artifacts/emcee_1674847341577/work
+eofs==1.4.1
+etils==1.9.1
+exceptiongroup @ file:///home/conda/feedstock_root/build_artifacts/exceptiongroup_1700579780973/work
+executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1698579936712/work
+fastjsonschema==2.19.1
+filelock==3.13.1
+findpeaks==2.6.6
+fiona==1.9.5
+flatbuffers==23.5.26
+fonttools==4.25.0
+fqdn==1.5.1
+frozenlist==1.4.1
+fsspec==2024.2.0
+futures==3.0.5
+gast==0.5.4
+geographiclib==2.0
+geopandas==0.14.2
+geopy==2.4.1
+google-pasta==0.2.0
+googleapis-common-protos==1.63.1
+googletrans==4.0.2
+goslate==1.5.4
+gpytorch==1.11
+grpcio==1.64.1
+h11==0.14.0
+h2==4.2.0
+h5py==3.11.0
+hatyan==2.11.0
+haversine==2.8.1
+hf-xet==1.1.9
+hpack==4.1.0
+httpcore==1.0.4
+httpx==0.28.1
+huggingface-hub==0.34.4
+hyperframe==6.1.0
+idna @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/idna_1699237644810/work
+imageio==2.37.0
+imbalanced-learn==0.11.0
+immutabledict==4.2.0
+importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1701632192416/work
+importlib_resources==6.4.0
+iniconfig==2.0.0
+ipykernel @ file:///Users/runner/miniforge3/conda-bld/ipykernel_1698244280508/work
+ipython==8.12.3
+isoduration==20.11.0
+jaxtyping==0.2.29
+jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1696326070614/work
+Jinja2==3.1.3
+joblib==1.3.2
+json5==0.9.17
+jsonpointer==2.4
+jsonschema==4.21.1
+jsonschema-specifications==2023.12.1
+jupyter-events==0.9.0
+jupyter-lsp==2.2.3
+jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1699283905679/work
+jupyter_core @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/jupyter_core_1701803168398/work
+jupyter_server==2.12.5
+jupyter_server_terminals==0.5.2
+jupyterlab==4.1.2
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.25.3
+keras==3.3.3
+keras-tuner==1.4.7
+kiwisolver @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/kiwisolver_1699239145780/work
+kt-legacy==1.0.5
+libclang==18.1.1
+libretranslatepy==2.1.1
+linear-operator==0.5.2
+llvmlite==0.45.0
+locket==1.0.0
+lxml==5.3.1
+Markdown==3.6
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/matplotlib-suite_1699241272749/work
+matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1660814786464/work
+mdurl==0.1.2
+mistune==3.0.2
+ml-dtypes==0.3.2
+mpmath==1.3.0
+multidict==6.0.5
+multiurl==0.3.5
+munkres==1.1.4
+namex==0.0.8
+nbclient==0.9.0
+nbconvert==7.16.1
+nbformat==5.9.2
+nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1697083700168/work
+netCDF4==1.6.5
+networkx==3.2.1
+notebook==7.1.1
+notebook_shim==0.2.4
+numba==0.62.0
+numexpr @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/numexpr_1699237935415/work
+numpy==1.26.4
+opencv-python==4.11.0.86
+openmeteo_requests==1.1.0
+openmeteo_sdk==1.7.0
+opt-einsum==3.3.0
+optree==0.11.0
+overrides==7.7.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pandas @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_82r7p4atwy/croot/pandas_1702318000240/work/dist/pandas-2.1.4-cp312-cp312-macosx_11_0_arm64.whl#sha256=142530670b1e4125a2466ecf7521689e9e72ac90d1e53a96b5ce39180a797870
+pandocfilters==1.5.1
+parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1638334955874/work
+partd==1.4.1
+patsy==0.5.6
+pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1667297516076/work
+pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
+pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1704252125823/work
+pipreqs==0.5.0
+platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1701708255999/work
+pluggy==1.5.0
+podaac-data-subscriber==1.14.0
+powerlaw==1.5
+prometheus_client==0.20.0
+promise==2.3
+prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1702399386289/work
+protobuf==4.25.3
+psutil @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/psutil_1699248249804/work
+ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pure-eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1642875951954/work
+pyarrow==16.1.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyextremes @ file:///home/conda/feedstock_root/build_artifacts/pyextremes_1697353889012/work
+Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1700607939962/work
+pyOpenSSL @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pyopenssl_1699241567078/work
+pyparsing @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pyparsing_1699239441347/work
+pyproj @ file:///Users/runner/miniforge3/conda-bld/pyproj_1699268121091/work
+pyro-api==0.1.2
+pyro-ppl==1.9.1
+pyshp @ file:///tmp/build/80754af9/pyshp_1610641829514/work
+PySocks @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pysocks_1699237568675/work
+pytest==8.2.2
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+python-json-logger==2.0.7
+pytides==0.0.4
+pyTMD==2.2.6
+pytz @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pytz_1699238107851/work
+PyWavelets==1.8.0
+PyYAML==6.0.1
+pyzmq @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/pyzmq_1699262382926/work
+quantile-forest==1.3.6
+rasterio==1.3.9
+rasterstats==0.20.0
+referencing==0.33.0
+requests @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/requests_1699238126620/work
+requests-cache==1.1.1
+retry-requests==2.0.0
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rich==13.7.1
+richdem @ file:///Users/runner/miniforge3/conda-bld/richdem_1700063538408/work/wrappers/pyrichdem
+rpds-py==0.18.0
+rws-ddlpy==0.7.0
+safetensors==0.6.2
+scikit-learn==1.3.2
+scipy @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/scipy_1701809213817/work/dist/scipy-1.11.4-cp312-cp312-macosx_11_0_arm64.whl#sha256=a3cbe006dde303d7cb9500d1b395f4327160814d8a359203b19094bdf6b5df9a
+seaborn==0.13.0
+Send2Trash==1.8.2
+setuptools==68.0.0
+setuptools-scm==9.0.1
+shapely @ file:///Users/runner/miniforge3/conda-bld/shapely_1700762943185/work
+simple_parsing==0.1.5
+simplejson==3.20.1
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sniffio==1.3.1
+snuggs==1.4.7
+soupsieve==2.5
+stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
+statsmodels==0.14.2
+sympy==1.12
+tdqm==0.0.1
+tenacity==8.2.3
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.1
+tensorflow-datasets==4.9.6
+tensorflow-metadata==1.15.0
+tensorflow-probability==0.24.0
+termcolor==2.4.0
+terminado==0.18.0
+threadpoolctl==3.2.0
+tide==0.1.81
+timescale==0.0.9
+timm==1.0.19
+tinycss2==1.2.1
+toml==0.10.2
+toolz==0.12.1
+torch==2.2.1
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch_geometric==2.5.0
+torchaudio==2.2.1
+torchvision==0.17.1
+tornado @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tornado_1699243541634/work
+tqdm @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/tqdm_1701805884490/work
+traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1701095650114/work
+translate==3.6.1
+typeguard==2.13.3
+types-python-dateutil==2.8.19.20240106
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1702176139754/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+uri-template==1.3.0
+url-normalize==1.4.3
+urllib3 @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/urllib3_1699237745193/work
+utide==0.3.1
+wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1700607916581/work
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.7.0
+Werkzeug==3.0.3
+wget==3.2
+wheel==0.41.2
+wrapt==1.16.0
+xarray @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/xarray_1699240726099/work
+xgboost==2.1.0
+yamlreader==3.0.4
+yarg==0.1.9
+yarl==1.9.4

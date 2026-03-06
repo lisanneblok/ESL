@@ -1,0 +1,514 @@
+latitude,longitude,CoastType,Wave_NC,Wave_Atlantic,Current
+50.0,1.0,Harbor area,1,0.3,5.2631
+50.0,0.75,Small beaches,1,0.43,6.6141
+49.75,0.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.29,5.7105
+49.75,0.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.27,5.8718
+49.75,0.25,Harbor area,1,0.92,9.2117
+50.0,1.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.3,4.2702
+49.5,0.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,118.4,6.2826
+49.5,-1.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.04,12.5462
+49.5,-1.25,Heterogeneous beach,1,0.0,7.2967
+49.75,-2.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,3.2621
+49.75,-1.75,Beach with rocky platform,1,0.0,5.858
+51.0,1.75,Harbor area,1,1.59,8.1439
+50.75,1.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,3.43,7.7735
+49.5,0.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,25.42,8.726
+49.5,0.5,Estuary,1,0.07,4.5649
+49.5,-1.75,"Muddy coastline, including tidal flat, salt marsh",1,0.0,2.2674
+49.75,-1.25,Beach with rocky platform,1,0.51,14.0669
+49.75,-1.5,Beach with rocky platform,1,0.03,9.1876
+50.5,1.5,Estuary,1,0.44,5.2819
+50.25,1.5,"Muddy coastline, including tidal flat, salt marsh",1,0.41,5.5644
+50.25,1.75,Harbor area,1,0.51,4.324
+50.0,1.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.48,4.4233
+49.5,-2.0,Coastal embankment with construction,1,0.0,2.0815
+55.25,-7.5,Pocket beaches (< 200 m long),1,72.77,32.5639
+54.25,-9.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.7348
+53.75,-9.75,Sand beach fronting upland (> 1 Km long),1,0.0,0.5467
+53.25,-9.75,Beach with rocky platform,1,0.0,1.3495
+53.0,-9.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.6468
+54.5,-8.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,1.01,9.7926
+54.5,-8.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,1.46,10.8263
+54.75,-8.75,Pocket beaches (< 200 m long),1,1.83,10.0168
+55.25,-7.75,Pocket beaches (< 200 m long),1,36.71,10.9303
+51.75,-8.5,Estuary,1,0.0,1.7438
+54.25,-8.5,Sand beach fronting upland (> 1 Km long),1,1.38,9.0705
+51.75,-9.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,2.3016
+51.75,-10.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,2.3652
+55.0,-7.5,Gravel beach fronting upland (> 1 km long),1,2.44,10.212
+55.0,-7.75,"Artificial shoreline (walk, dike, quay) without beach",1,0.53,3.0403
+54.75,-8.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,2.86,9.2541
+55.0,-8.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,2.88,7.2015
+55.0,-8.25,Pocket beaches (< 200 m long),1,0.97,3.8953
+51.75,-8.25,Pocket beaches (< 200 m long),1,0.0,1.926
+54.5,-8.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.36,7.2529
+53.25,-6.0,Gravel beach fronting upland (> 1 km long),3,0.73,3.3627
+53.25,-9.0,Gravel beach fronting upland (> 1 km long),1,0.64,10.3839
+51.75,-8.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.6475
+52.5,-9.5,Coastal embankment with construction,1,0.0,2.6379
+52.75,-9.5,Gravel beach fronting upland (> 1 km long),1,0.0,2.9287
+51.75,-9.5,Pocket beaches (< 200 m long),1,0.0,1.9318
+55.25,-7.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,136.2,673.1111
+55.25,-7.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,70.94,103.9228
+55.0,-7.25,Coastal embankment with construction,1,77.26,49.3759
+52.25,-10.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.0401
+51.5,-9.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.6967
+51.5,-10.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,2.4036
+53.75,-10.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.5135
+54.25,-8.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,1.78,8.5954
+54.0,-10.0,Coastal embankment with construction,1,0.0,0.4248
+53.5,-10.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.7252
+51.75,-8.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.0,2.8004
+52.0,-7.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,2.4822
+53.5,-6.0,Pocket beaches (< 200 m long),1,1.8,10.5807
+53.5,-6.25,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",1,0.08,2.6482
+51.5,-9.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.0,2.3445
+53.5,-10.25,Small beaches,1,0.0,0.7409
+52.75,-9.25,Estuary,1,0.0,5.2755
+52.5,-9.25,"Muddy coastline, including tidal flat, salt marsh",1,0.0,4.3097
+52.25,-7.0,Beach with rocky platform,1,14.14,18.4301
+52.25,-9.75,Coastal embankment with construction,1,0.0,1.5618
+52.5,-9.75,Sand beach fronting upland (> 1 Km long),1,0.0,1.7048
+52.25,-10.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.2365
+52.0,-10.25,Beach with rocky platform,1,0.0,0.8324
+51.5,-9.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.3649
+54.75,-8.25,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",1,1.06,5.9217
+55.25,-8.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,29.06,6.6269
+51.75,-10.25,Estuary,1,0.0,1.5409
+51.5,-8.75,Small beaches,1,0.0,1.5801
+54.25,-9.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.0,1.2491
+51.5,-9.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.4303
+53.25,-9.25,Vegetated (‘green’) beach,1,0.03,6.7118
+53.75,-10.25,Small beaches,1,0.0,0.5295
+52.0,-8.0,Estuary,1,0.0,1.9759
+52.0,-7.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,5.6404
+52.25,-6.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,12.34,20.8875
+52.25,-6.5,Estuary,1,13.96,25.8327
+54.25,-10.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.549
+54.0,-10.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.4399
+52.0,-10.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.777
+52.25,-10.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.9407
+52.0,-10.0,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",1,0.0,1.051
+53.25,-6.25,Harbor area,1,154.61,13.2159
+54.0,-6.0,Gravel beach fronting upland (> 1 km long),3,22.43,49.553
+54.0,-6.25,Gravel beach fronting upland (> 1 km long),3,4.17,19.0383
+54.25,-10.0,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",1,0.0,0.5204
+52.25,-6.25,Small beaches,1,20.38,66.7808
+53.75,-6.25,Gravel beach fronting upland (> 1 km long),3,0.08,2.8986
+51.5,-10.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.9738
+53.0,-6.0,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",1,2.46,15.9108
+52.25,-7.25,Sand beach fronting upland (> 1 Km long),3,6.38,14.4834
+53.0,-9.25,Estuary,1,0.0,6.2543
+52.5,-6.25,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,13.3318
+55.25,-8.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,25.49,7.3451
+54.25,-9.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.5562
+54.25,-9.75,Small beaches,1,0.0,0.4819
+54.0,-9.75,Gravel beach fronting upland (> 1 km long),1,0.0,0.422
+54.0,-9.5,Coastal embankment with construction,1,0.0,0.4815
+53.0,-9.5,Harbor area,1,0.0,2.8379
+52.25,-7.5,Pocket beaches (< 200 m long),1,1.73,12.1767
+52.75,-6.25,Sand beach fronting upland (> 1 Km long),1,0.07,8.0491
+55.5,-7.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,130.74,32.1455
+55.5,-7.25,Gravel beach fronting upland (> 1 km long),3,865.09,13.9681
+52.75,-6.0,Sand beach fronting upland (> 1 Km long),1,0.46,18.6275
+53.25,-9.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,2.2868
+52.75,-9.75,Pocket beaches (< 200 m long),1,0.0,1.6934
+51.5,-8.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.7786
+53.75,-9.5,Estuary,1,0.0,0.6982
+53.25,-10.0,Pocket beaches (< 200 m long),1,0.0,1.0604
+53.5,-9.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.8303
+53.5,-9.5,Beach with rocky platform,1,0.0,1.1161
+52.5,-10.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,1.3665
+51.75,-10.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,0.9933
+50.5,-2.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,2.06,14.9003
+52.5,1.75,Gravel beach fronting upland (> 1 km long),1,0.28,10.7292
+56.25,-5.75,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+60.0,-1.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.25,-6.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,1095.01,29.7106
+59.75,-1.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+60.75,-1.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,25.38,771.2309
+60.5,-1.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,26.63,902.7628
+57.75,-2.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.75,-2.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.75,-2.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.75,-4.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+57.75,-5.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,140.6,444.6204
+51.75,1.0,"Muddy coastline, including tidal flat, salt marsh",1,0.16,9.2805
+51.75,1.25,Gravel beach fronting upland (> 1 km long),1,0.45,8.7262
+51.75,0.75,"Muddy coastline, including tidal flat, salt marsh",1,0.29,9.9307
+52.0,1.25,"Muddy coastline, including tidal flat, salt marsh",1,0.91,12.0349
+51.5,1.0,"Muddy coastline, including tidal flat, salt marsh",1,1.28,10.8165
+51.0,1.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,1.41,9.1157
+51.5,0.75,"Muddy coastline, including tidal flat, salt marsh",1,0.28,8.5809
+50.25,-4.5,Estuary,0,-3.402823e+38,-3.402823e+38
+50.0,-5.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+50.25,-5.0,Estuary,0,-3.402823e+38,-3.402823e+38
+56.25,-3.25,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+57.75,-3.5,Pocket beaches (< 200 m long),0,-3.402823e+38,-3.402823e+38
+57.25,-5.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,1.03,77.8294
+57.0,-5.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,1.22,26.6061
+56.0,-5.25,Heterogeneous beach,1,0.0,102.1035
+55.75,-5.25,Small beaches,1,5.91,79.121
+56.0,-2.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+52.25,1.5,Gravel beach fronting upland (> 1 km long),1,0.26,8.9623
+52.25,1.75,Harbor area,1,0.23,9.3674
+53.0,-4.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+51.0,1.0,Gravel beach fronting upland (> 1 km long),1,1.54,10.2487
+51.5,1.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,2.45,8.577
+50.75,-4.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.0,6.5681
+50.5,-5.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+50.75,-1.0,"Muddy coastline, including tidal flat, salt marsh",3,105.1,0.4552
+57.5,-7.5,Pocket beaches (< 200 m long),0,-3.402823e+38,-3.402823e+38
+57.5,-7.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.25,-7.5,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+57.75,-7.25,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",0,-3.402823e+38,-3.402823e+38
+57.75,-7.5,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+57.75,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.5,-6.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+57.75,-6.5,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+56.75,-6.0,Small beaches,0,-3.402823e+38,-3.402823e+38
+56.5,-5.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.85,25.1506
+58.5,-3.5,Harbor area,0,-3.402823e+38,-3.402823e+38
+58.5,-3.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.5,-6.0,Pocket beaches (< 200 m long),3,214.33,4.0131
+57.5,-5.75,Small beaches,1,5.57,178.5177
+58.25,-5.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,4.21,280.3063
+57.5,-7.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.75,-7.0,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+57.5,-4.0,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",3,23.99,110.1637
+58.75,-3.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+58.75,-3.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+55.0,-3.25,Estuary,0,-3.402823e+38,-3.402823e+38
+54.25,-3.25,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+54.0,-3.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+54.25,-3.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.5,-3.25,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+56.5,-3.0,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+53.25,-4.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+53.5,-4.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+53.25,-4.75,Harbor area,0,-3.402823e+38,-3.402823e+38
+50.0,-6.25,Small beaches,0,-3.402823e+38,-3.402823e+38
+56.0,-2.25,Pocket beaches (< 200 m long),0,-3.402823e+38,-3.402823e+38
+56.0,-2.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+51.25,1.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,2.02,8.4635
+51.25,1.25,Gravel beach fronting upland (> 1 km long),1,2.68,9.5989
+51.25,1.0,Gravel beach fronting upland (> 1 km long),1,3.02,10.7752
+56.5,-5.75,Small beaches,0,-3.402823e+38,-3.402823e+38
+56.0,-3.5,"Muddy coastline, including tidal flat, salt marsh",3,0.0,660.5635
+56.0,-3.75,Coastal embankment with construction,0,-3.402823e+38,-3.402823e+38
+60.25,-1.25,Heterogeneous beach,3,282.8,579.0059
+54.0,-3.25,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+53.25,-3.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,33.99,2.8134
+50.75,-3.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.09,14.698
+50.75,-2.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,16.67,52.8011
+50.75,-2.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,4.49,40.6098
+55.0,-3.5,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+54.75,-3.5,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+54.75,-1.25,Sand beach fronting upland (> 1 Km long),1,8.38,65.3131
+52.75,0.25,"Muddy coastline, including tidal flat, salt marsh",1,0.03,15.3678
+53.0,0.0,Vegetated (‘green’) beach,1,0.85,28.3365
+53.0,-4.25,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+52.5,-4.0,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+53.0,1.0,Sand beach fronting upland (> 1 Km long),1,0.04,17.1905
+59.0,-3.0,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",0,-3.402823e+38,-3.402823e+38
+58.25,-7.0,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+52.75,-4.0,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",0,-3.402823e+38,-3.402823e+38
+51.75,-5.0,Harbor area,1,115.7,54.0661
+51.75,-4.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,26.48,51.7998
+51.75,-4.5,Gravel beach fronting upland (> 1 km long),1,13.84,33.5095
+56.75,-5.75,Small beaches,3,14.55,21.5014
+60.75,-0.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,19.26,636.5575
+53.0,0.75,Coastal embankment with construction,1,0.07,18.058
+51.25,0.75,"Muddy coastline, including tidal flat, salt marsh",1,0.69,9.3495
+50.0,-5.75,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+60.75,-1.25,Estuary,1,15.67,720.5797
+60.5,-1.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,28.92,759.596
+54.5,-1.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,6.55,47.429
+50.75,-1.25,Sand beach fronting upland (> 1 Km long),3,593.89,8.5601
+50.75,-0.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,3.03,14.1414
+51.0,-4.25,Sand beach fronting upland (> 1 Km long),1,2.16,26.0756
+50.5,-3.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.01,16.1519
+53.25,-4.25,Sand beach fronting upland (> 1 Km long),1,1.77,3.163
+53.75,-0.5,Harbor area,1,3.28,68.1636
+55.0,-3.0,Estuary,0,-3.402823e+38,-3.402823e+38
+55.0,-5.0,Gravel beach fronting upland (> 1 km long),1,204.47,0.245
+55.75,-6.25,Estuary,0,-3.402823e+38,-3.402823e+38
+54.75,-5.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+59.25,-3.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+59.0,-3.25,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+59.0,-2.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.75,-3.75,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+56.5,-5.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.25,-5.5,Pocket beaches (< 200 m long),0,-3.402823e+38,-3.402823e+38
+52.0,1.5,Gravel beach fronting upland (> 1 km long),1,0.63,10.8705
+51.5,-3.75,Sand beach fronting upland (> 1 Km long),1,0.72,17.7514
+54.25,-2.75,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+53.0,0.5,Sand beach fronting upland (> 1 Km long),1,0.14,19.1535
+50.25,-3.75,Small beaches,1,0.0,5.7352
+51.5,0.5,Estuary,1,0.4,12.0032
+50.5,-5.0,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+50.25,-5.25,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+51.0,0.75,Gravel beach fronting upland (> 1 km long),1,0.76,10.1424
+50.75,-0.25,Heterogeneous beach,1,0.6,8.2099
+50.75,0.0,Gravel beach fronting upland (> 1 km long),1,1.24,9.3112
+50.75,0.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.19,6.5835
+50.75,0.5,Gravel beach fronting upland (> 1 km long),1,0.88,7.5707
+55.75,-5.0,Heterogeneous beach,1,40.74,15.4928
+58.75,-3.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.25,-5.5,Gravel beach fronting upland (> 1 km long),1,0.0,82.7928
+57.0,-5.5,Gravel beach fronting upland (> 1 km long),1,0.0,31.705
+57.0,-6.5,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+54.25,-5.75,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",0,-3.402823e+38,-3.402823e+38
+57.0,-6.25,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+53.5,0.0,Sand beach fronting upland (> 1 Km long),1,3.12,64.3542
+53.0,0.25,Heterogeneous beach,1,0.19,22.7726
+52.75,1.75,Gravel beach fronting upland (> 1 km long),1,2.26,12.9574
+52.75,1.5,Sand beach fronting upland (> 1 Km long),1,0.24,11.6035
+52.75,0.5,"Muddy coastline, including tidal flat, salt marsh",1,0.01,12.6102
+51.75,-4.25,Gravel beach fronting upland (> 1 km long),3,273.94,121.6349
+50.25,-3.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.0,5.5538
+50.5,-3.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.09,17.0979
+50.75,-1.5,"Muddy coastline, including tidal flat, salt marsh",1,16.67,34.0824
+50.0,-5.5,Small beaches,0,-3.402823e+38,-3.402823e+38
+50.0,-5.25,Small beaches,0,-3.402823e+38,-3.402823e+38
+56.0,-6.0,Small beaches,0,-3.402823e+38,-3.402823e+38
+56.0,-5.75,Small beaches,0,-3.402823e+38,-3.402823e+38
+56.0,-3.0,Artificial beach,0,-3.402823e+38,-3.402823e+38
+56.0,-3.25,Coastal embankment with construction,0,-3.402823e+38,-3.402823e+38
+57.75,-3.0,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+57.75,-3.25,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+51.5,-4.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,5.64,28.4151
+55.75,-2.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+55.25,-1.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,46.29,241.4697
+55.5,-1.5,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+55.5,-1.75,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+59.25,-2.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+59.25,-3.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+55.5,-5.0,Gravel beach fronting upland (> 1 km long),1,4.73,30.5605
+51.5,-3.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,30.59,123.1974
+52.75,-4.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+51.75,-2.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,10.3,151.9811
+51.75,-2.5,"Muddy coastline, including tidal flat, salt marsh",3,21.06,23.2056
+54.25,-0.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,2.35,37.2631
+54.75,-4.0,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+54.75,-3.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+55.0,-3.75,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+56.75,-5.25,Gravel beach fronting upland (> 1 km long),1,0.01,18.9155
+55.5,-5.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+55.75,-5.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.09,142.0712
+56.0,-5.5,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",3,0.01,120.3644
+56.0,-5.0,Heterogeneous beach,0,1384.7,-3.402823e+38
+56.25,-5.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.41,149.1078
+50.5,-1.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,1887.19,0.2309
+57.5,-7.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+55.75,-6.0,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+60.5,-1.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,22.34,639.9442
+60.25,-1.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,65.75,319.8551
+58.5,-4.75,Heterogeneous beach,1,37.21,140.3031
+58.5,-5.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,15.97,193.5675
+55.75,-1.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+55.0,-1.5,Harbor area,1,0.84,63.857
+54.5,-3.5,"Artificial shoreline (walk, dike, quay) without beach",0,-3.402823e+38,-3.402823e+38
+59.25,-2.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.5,-6.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.25,-6.5,Small beaches,0,-3.402823e+38,-3.402823e+38
+60.25,-1.0,Small beaches,3,39.02,818.0279
+58.5,-4.0,Small beaches,1,2016.37,17.4543
+57.5,-4.25,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,306.038
+54.75,-4.75,"Muddy coastline, including tidal flat, salt marsh",3,0.18,0.55
+54.75,-4.5,Small beaches,0,-3.402823e+38,-3.402823e+38
+52.75,-4.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+56.0,-6.25,Beach with rocky platform,0,-3.402823e+38,-3.402823e+38
+55.25,-6.5,Sand beach fronting upland (> 1 Km long),1,8.09,599.1506
+59.0,-3.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.0,-6.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,5.41,17.6143
+57.0,-7.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+51.25,-3.75,Gravel beach fronting upland (> 1 km long),1,0.49,15.8994
+51.25,-4.0,Sand beach fronting upland (> 1 Km long),1,6.09,27.9269
+51.25,-4.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,10.68,28.4843
+51.0,-4.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,2.28,17.9197
+50.25,-4.25,Harbor area,1,0.0,5.8921
+53.25,-2.75,Harbor area,0,-3.402823e+38,-3.402823e+38
+60.5,-1.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,21.18,618.9966
+58.25,-6.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+58.25,-7.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+58.25,-6.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+57.75,-8.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.0,-7.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.25,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.5,-1.75,Harbor area,0,-3.402823e+38,-3.402823e+38
+55.5,-5.25,Gravel beach fronting upland (> 1 km long),1,29.32,39.168
+51.25,-3.5,Sand beach fronting upland (> 1 Km long),1,0.61,23.949
+50.25,-4.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.0,6.1074
+50.75,-1.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,83.68,54.0206
+50.75,-2.75,Gravel beach fronting upland (> 1 km long),1,3.37,47.3846
+50.5,-2.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,3.74,14.5509
+50.75,-2.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,18.65,114.268
+50.75,0.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.61,7.3112
+54.25,-3.5,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+53.75,-0.25,Harbor area,1,1.01,53.7525
+53.5,-0.25,Heterogeneous beach,1,2.82,84.7411
+56.25,-2.75,Small beaches,0,-3.402823e+38,-3.402823e+38
+53.75,-0.0,"Muddy coastline, including tidal flat, salt marsh",1,1.5,47.2818
+53.5,0.25,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",1,2.5,50.9641
+54.0,-0.25,Sand beach fronting upland (> 1 Km long),1,2.73,37.9638
+56.75,-2.5,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",0,-3.402823e+38,-3.402823e+38
+57.0,-2.25,Beach with rocky platform,0,-3.402823e+38,-3.402823e+38
+57.0,-2.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.25,-2.0,Small beaches,0,-3.402823e+38,-3.402823e+38
+58.5,-4.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,76.18,84.4793
+55.0,-1.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,1.29,73.9396
+58.0,-4.0,Sand beach fronting upland (> 1 Km long),3,1125.19,6.0512
+59.0,-4.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+58.0,-7.0,Small beaches,0,-3.402823e+38,-3.402823e+38
+58.0,-7.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+58.25,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+58.5,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,3373.47,63.9809
+58.0,-5.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,2.27,346.7086
+57.75,-4.25,"Muddy coastline, including tidal flat, salt marsh",3,1158.6,24.1707
+58.0,-3.75,Estuary,0,-3.402823e+38,-3.402823e+38
+58.25,-3.5,Small beaches,0,-3.402823e+38,-3.402823e+38
+58.25,-3.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+58.5,-3.0,Harbor area,0,-3.402823e+38,-3.402823e+38
+58.5,-3.25,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+56.25,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.5,-6.75,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+53.5,-4.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+54.5,-0.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,2.85,39.8366
+54.75,-1.0,Sand beach fronting upland (> 1 Km long),1,4.48,75.7946
+54.25,-0.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,2.94,48.202
+54.5,-0.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,3.97,34.183
+54.0,-2.75,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+53.0,1.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.58,17.9912
+51.75,-5.25,Heterogeneous beach,1,9.13,22.2371
+51.5,-5.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,2.69,17.3103
+51.5,-4.25,Sand beach fronting upland (> 1 Km long),1,9.49,36.3704
+51.5,-2.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,337.83,193.3631
+50.75,-0.5,Sand beach fronting upland (> 1 Km long),1,1.59,9.9993
+55.25,-6.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",3,49.26,80.4363
+55.25,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",3,92.56,1073.9762
+56.5,-2.75,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+56.5,-2.5,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+58.5,-4.25,Sand beach fronting upland (> 1 Km long),1,93.18,53.6973
+56.25,-6.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+58.0,-6.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.75,-5.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.29,416.5675
+58.0,-5.5,Small beaches,1,3.0,411.493
+57.25,-7.25,Estuary,0,-3.402823e+38,-3.402823e+38
+57.5,-6.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+56.5,-5.0,Heterogeneous beach,1,0.0,18.6327
+55.75,-5.75,Gravel beach fronting upland (> 1 km long),1,0.01,238.9965
+55.5,-5.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",3,1.69,376.191
+57.0,-6.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.75,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+51.75,-5.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,36.82,28.5662
+53.25,-4.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+51.25,-3.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,7.5,100.2775
+51.5,-3.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.24,17.8344
+51.25,-3.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,18.26,67.4141
+50.75,-4.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.0,6.6207
+50.5,-4.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.0,6.1023
+50.25,-5.5,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+54.25,-5.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+55.25,-6.75,Sand beach fronting upland (> 1 Km long),1,175.55,715.6184
+53.75,-0.75,"Muddy coastline, including tidal flat, salt marsh",1,5.31,69.2861
+56.25,-6.0,Small beaches,0,-3.402823e+38,-3.402823e+38
+56.5,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.5,-6.0,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+56.5,-7.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+55.5,-6.25,Small beaches,1,0.09,222.9755
+56.0,-4.5,Estuary,0,-3.402823e+38,-3.402823e+38
+55.25,-5.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",3,0.6,3.3343
+53.25,0.25,Sand beach fronting upland (> 1 Km long),1,0.54,27.8483
+53.0,-4.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+52.0,-5.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,23.61,59.5019
+52.0,-5.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,9.56,40.1166
+52.25,-4.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,34.16,44.919
+51.5,-2.5,"Muddy coastline, including tidal flat, salt marsh",3,275.26,237.1952
+51.5,1.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,1.98,9.7775
+50.25,-4.75,Small beaches,0,-3.402823e+38,-3.402823e+38
+54.75,-5.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,0.52,1.2812
+54.0,-0.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,1.93,33.1133
+54.25,-0.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.54,38.3153
+60.5,-0.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,5.16,621.222
+53.5,-3.0,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+53.25,-3.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+53.25,-3.0,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+53.5,-3.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.25,-3.0,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+57.75,-5.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.6,359.4405
+58.0,-5.75,Small beaches,1,105.11,491.6257
+57.5,-3.75,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",3,72.14,149.8925
+56.75,-5.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.01,11.3475
+55.25,-5.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,11.34,3.8807
+54.75,-4.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+53.75,-3.0,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+53.25,-3.5,Estuary,0,-3.402823e+38,-3.402823e+38
+53.0,-4.0,Coastal embankment with construction,1,10.12,1.57
+52.75,-4.25,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+52.25,-4.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,56.88,55.6215
+52.25,-4.25,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,33.76,46.5416
+52.0,-4.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,27.45,76.4847
+51.5,-3.25,Harbor area,1,2.96,28.8794
+50.75,-3.25,Gravel beach fronting upland (> 1 km long),1,0.93,18.7792
+50.5,-2.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.24,8.9811
+54.75,-5.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",3,0.0,2.6076
+56.75,-2.25,Pocket beaches (< 200 m long),0,-3.402823e+38,-3.402823e+38
+56.25,-2.5,Small beaches,0,-3.402823e+38,-3.402823e+38
+56.0,-4.75,Coastal embankment with construction,3,45.55,4.6964
+60.25,-1.75,Heterogeneous beach,3,75.39,490.4429
+60.25,-2.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",3,852.12,142.1433
+59.0,-2.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+59.0,-5.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,0.94,143.5208
+59.0,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,40.12,70.5361
+56.0,-2.5,Beach with rocky platform,0,-3.402823e+38,-3.402823e+38
+55.25,-4.75,Beach with rocky platform,3,12.35,3.2543
+55.0,-6.0,Sand beach fronting upland (> 1 Km long),1,17.86,1688.7161
+55.0,-7.0,"Artificial shoreline (walk, dike, quay) without beach",1,108.44,121.048
+58.0,-6.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.75,-7.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+57.25,-6.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.75,-5.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,3.13,13.1778
+55.5,-4.75,Sand beach fronting upland (> 1 Km long),3,28.94,24.535
+55.0,-4.5,"Muddy coastline, including tidal flat, salt marsh",0,-3.402823e+38,-3.402823e+38
+56.25,-5.0,Gravel beach fronting upland (> 1 km long),1,0.0,94.8958
+54.5,-5.5,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",3,1.66,167.1895
+50.75,-3.5,Harbor area,1,1.4,25.6378
+56.75,-6.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.5,-6.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+55.75,-6.5,Small beaches,0,-3.402823e+38,-3.402823e+38
+57.5,-5.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.63,204.3472
+57.75,-2.0,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+58.25,-5.0,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,2.34,232.7242
+58.25,-5.5,Beach with rocky platform,1,5.7,307.8541
+57.75,-8.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+52.5,-4.25,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+58.5,-5.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,4.8,250.8125
+57.75,-6.75,Estuary,0,-3.402823e+38,-3.402823e+38
+58.0,-6.75,Small beaches,0,-3.402823e+38,-3.402823e+38
+55.75,-4.75,Gravel beach fronting upland (> 1 km long),0,-3.402823e+38,-3.402823e+38
+55.5,-4.5,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+55.25,-5.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+60.25,-0.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",1,88.24,715.7373
+55.0,-5.25,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+54.75,-5.25,Heterogeneous beach,0,-3.402823e+38,-3.402823e+38
+59.5,-1.5,"Beach that is part of extensive non-cohesive sedimentary systems (barrier, spit, tombolo)",0,-3.402823e+38,-3.402823e+38
+59.5,-1.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+59.5,-2.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+58.5,-6.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+54.5,-3.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+56.75,-7.5,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+56.75,-7.75,Sand beach fronting upland (> 1 Km long),0,-3.402823e+38,-3.402823e+38
+52.25,-4.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",0,-3.402823e+38,-3.402823e+38
+51.25,-4.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,1.35,13.8258
+50.25,-5.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",0,-3.402823e+38,-3.402823e+38
+51.0,-1.5,Harbor area,1,3.5,106.0008
+58.0,-4.25,Heterogeneous beach,3,131.24,36.728
+57.75,-5.0,Heterogeneous beach,1,0.01,348.303
+57.5,-4.5,"Muddy coastline, including tidal flat, salt marsh",3,129.21,231.7242
+56.25,-4.75,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",3,8.35,747.056
+53.0,1.5,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,1.51,17.5504
+51.75,-4.0,"Muddy coastline, including tidal flat, salt marsh",1,17.13,30.3439
+55.0,-5.75,"Erosion-resistant rock and/or cliff, without loose eroded material in the fronting sea",3,0.18,0.3553
+54.75,-6.0,"Muddy coastline, including tidal flat, salt marsh",3,4.82,77.0258
+54.25,-6.0,"Erodible rock and/or cliff, with rock waste and sediments (sand or pebbles) at its base",1,0.16,8.0129
